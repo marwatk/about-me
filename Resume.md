@@ -66,11 +66,11 @@ Developed automated call recorder to facilitate helpdesk quality assurance
 * **SQL**: MySQL, Microsoft Access, SQLite, DB2
 * **HTML/CSS**: Bootstrap
 * **Javascript**: jQuery, Node.js
-* **Ansible**
 * **Cloud**: Docker, Kubernetes, Openshift
+* **CI/CD**: GitLab CI
+* **Ansible**
 * **Linux**: RHEL, CentOS
 * **Arduino**
-* **CI/CD**: GitLab CI
 
 ## Not Yet Idiomatic Languages and Technologies
 
