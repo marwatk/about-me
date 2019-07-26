@@ -2,23 +2,24 @@
 
 ## About Me
 
-My first significant coding project was a Risk clone for the TI-85 graphing calculator. I've been writing code ever since, as both hobbyist and professional. I love learning new tech and solving problems, especially problems no one has worked on before. I'm capable of designing and implementing complex software from architecture down to low-level OS configuration.
+My first significant coding project was a Risk clone for the TI-85 graphing calculator. I've been writing code ever since, as both hobbyist and professional. I love learning new tech and solving problems, especially problems no one has worked on before. I'm capable of designing and implementing complex software from architecture to low-level OS configuration.
 
 ## Primary Work Experience
 
 | | | |
 |---:|:---:|---|
 |2017 – Current|Software Engineer|[Perspecta](https://perspecta.com/)|
-|2015 - 2017|IT Director|[Bal Swan Children's Center](http://balswan.org/)|
-|2012 - 2017|Co-Founder/CTO|[Toppers With Glitz](http://topperswithglitz.com/)|
+|2015 - 2017|IT Director (Volunteer)|[Bal Swan Children's Center](http://balswan.org/)|
+|2008 - 2011|Founder|[Versatile Monkey](http://versatilemonkey.com)|
+|2005 - 2017|Co-Founder/CTO|[Toppers With Glitz](http://topperswithglitz.com/)|
 |2002 - 2012|Software Engineer|[IBM](http://ibm.com/)|
 
 ## Major Projects
 
-### Government bare metal to cloud conversion (2017 to 2019)
-Lead transition from hard-to-repeat bare metal deployments to unified, declarative, repeatable deployments for a variety of disparate components
+### Government bare-metal to on-premise cloud conversion (2017 to 2019)
+Lead transition from manual bare metal builds and deployments to automated, declarative, repeatable Kubernetes deployments for a variety of disparate components
 
-**Stack**: Docker, Openshift, Kubernetes, Ansible, various app languages
+**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, various app languages
 
 ### Bal Swan G-Suite Migration (2016)
 Solely responsible for seamless transition from legacy mail and office systems to G-Suite for approximately 50 technologically challenged users
@@ -26,10 +27,10 @@ Solely responsible for seamless transition from legacy mail and office systems t
 ### IBM OneView (2004 to 2012) - Major Outage Management System
 Lead global team of developers and support personnel to design, implement and support IBM's strategic solution for outage management
 
-**Stack**: Perl, DB2, AIX, HTML5, Javascript, CSS
+**Stack**: Perl, DB2, AIX, HTML, Javascript, CSS
 
 ### ToppersWithGlitz<span></span>.com (2005 to 2017) - Website and workflow management
-Designed and implemented complete eCommerce solution for small business including graphic design, secure order management and website analytics
+Designed and implemented complete eCommerce solution for small business including graphic design, secure order management, advertising and website analytics
 
 **Stack**: Perl, HTML, Javascript, CSS, Linux, MySQL, Microsoft Access
 
@@ -66,15 +67,16 @@ Developed automated call recorder to facilitate helpdesk quality assurance
 * **HTML/CSS**: Bootstrap
 * **Javascript**: jQuery, Node.js
 * **Ansible**
-* **Docker**: Kubernetes, Openshift
+* **Cloud**: Docker, Kubernetes, Openshift
 * **Linux**: RHEL, CentOS
 * **Arduino**
+* **CI/CD**: GitLab CI
 
 ## Not Yet Idiomatic Languages and Technologies
 
-Python, Go, PostgreSQL, C++, Angular, VB, VBA, IBM DB2, Ubuntu
-
 _I can write **Java** in almost anything_
+
+Python, Go, PostgreSQL, C++, Angular, IBM DB2, Ubuntu
 
 # Awards
 
