@@ -8,7 +8,7 @@ My first significant software project was a Risk clone for the TI-85 graphing ca
 
 | | | |
 |---:|:---:|---|
-|2017 – Current|Software Engineer|[Perspecta](https://perspecta.com/)|
+|2017 – Current|Software Engineer|[Peraton](https://peraton.com/)|
 |2015 - 2017|IT Director (Volunteer)|[Bal Swan Children's Center](http://balswan.org/)|
 |2008 - 2011|Founder|[Versatile Monkey](http://versatilemonkey.com)|
 |2005 - 2017|Co-Founder/CTO|[Toppers With Glitz](http://topperswithglitz.com/)|
