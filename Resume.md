@@ -2,7 +2,7 @@
 
 ## About Me
 
-My first significant coding project was a Risk clone for the TI-85 graphing calculator. I've been writing code ever since, as both hobbyist and professional. I love learning new tech and solving problems, especially problems no one has worked on before. I'm capable of designing and implementing complex software from architecture to low-level OS configuration.
+My first significant software project was a Risk clone for the TI-85 graphing calculator. I've been writing code ever since, as both hobbyist and professional. I love learning new tech and solving problems, especially problems no one has worked on before. I'm capable of designing and implementing complex software from architecture to low-level OS configuration.
 
 ## Primary Work Experience
 
@@ -16,10 +16,10 @@ My first significant coding project was a Risk clone for the TI-85 graphing calc
 
 ## Major Projects
 
-### Government bare-metal to on-premise cloud conversion (2017 to 2019)
+### Government bare-metal to on-premise cloud conversion (2017 to 2022)
 Lead transition from manual bare metal builds and deployments to automated, declarative, repeatable Kubernetes deployments for a variety of disparate components
 
-**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, various app languages
+**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, Go, Java, Perl, Python, Bash
 
 ### Bal Swan G-Suite Migration (2016)
 Solely responsible for seamless transition from legacy mail and office systems to G-Suite for approximately 50 technologically challenged users
@@ -60,23 +60,24 @@ Developed automated call recorder to facilitate helpdesk quality assurance
 
 ## Idiomatic Languages and Technologies
 
-* **Java**: Spring[boot], Maven, Eclipse, jUnit, JSP, ThymeLeaf
+* **Go**
+* **Java**: Spring[boot], Maven, Eclipse, jUnit 4/5, JSP, ThymeLeaf
 * **Perl**
 * **Bash/Shell**
-* **SQL**: MySQL, Microsoft Access, SQLite, DB2
+* **SQL**: MySQL, Microsoft Access, SQLite, IBM DB2
 * **HTML/CSS**: Bootstrap
-* **Javascript**: jQuery, Node.js
-* **Cloud**: Docker, Kubernetes, Openshift
-* **CI/CD**: GitLab CI
+* **Cloud**: Docker, Kubernetes, `minikube`, Openshift
+* **CI/CD**: GitLab CI, Argo
+* **Javascript**: jQuery, Node.js (my skills a probably out of date)
 * **Ansible**
-* **Linux**: RHEL, CentOS
+* **Linux**: RHEL, CentOS, RockyOS, Ubuntu, WSL2
 * **Arduino**
 
 ## Not Yet Idiomatic Languages and Technologies
 
 _I can write **Java** in almost anything_
 
-Python, Go, PostgreSQL, C++, Angular, IBM DB2, Ubuntu
+Python, PostgreSQL, C++, Angular, IBM DB2, Ubuntu
 
 # Awards
 
