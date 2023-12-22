@@ -1,10 +1,10 @@
 # Marcus Watkins - Software Engineer
 
+me@marcuswatkins.net / github: [marwatk](https://github.com/marwatk/) / HN: [marwatk](https://news.ycombinator.com/user?id=marwatk)
+
 ## [About Me](https://github.com/marwatk/about-me)
 
 My first significant software project was a Risk clone for the TI-85 graphing calculator written in high school. I've been writing code ever since, as both hobbyist and professional. I'm a polyglot who picks up new tech quickly and can hit the ground running. I'm capable of designing and implementing complex software from architecture and cloud deployment down to low-level OS configuration. I'm an excellent problem solver, often the go-to for problems others can't solve.
-
-github: [marwatk](https://github.com/marwatk/), HN: [marwatk](https://news.ycombinator.com/user?id=marwatk)
 
 ## Primary Work Experience
 
@@ -19,10 +19,10 @@ github: [marwatk](https://github.com/marwatk/), HN: [marwatk](https://news.ycomb
 ## Major Projects
 
 ### Government bare-metal to on-premise cloud conversion (2017 to 2023)
-Led transition from manual bare metal builds and deployments to automated, declarative, repeatable containerized deployments for a variety of disparate components using a cloud-agnostic approach.
+Led transition from manual bare metal builds and deployments to automated, declarative, repeatable containerized deployments for a variety of disparate internet-facing components using 100% infrastructure as code and a cloud-agnostic approach.
 Significantly reduced developer toil and operator error, ensuring higher uptime and fewer outages.
 
-**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, Go, Java, Python, Bash, Argo
+**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, Go, Java, Python, Bash, Argo, AWS
 
 ### Bal Swan G-Suite Migration (2016)
 Solely responsible for seamless transition from legacy mail and office systems to G-Suite for approximately 50 technologically challenged users.
@@ -63,6 +63,16 @@ Developed automated call recorder to facilitate helpdesk quality assurance reduc
 |2004 - 2006|BS, Computer Science|Metropolitan State University|Denver, CO|
 |2003|Red Hat Certified Engineer|
 
+I have open source contributions to 
+[Ansible](https://github.com/ansible-collections/community.general/pull/1491),
+[minikube](https://github.com/kubernetes/minikube/pull/12617),
+[buildah](https://github.com/containers/buildah/pulls?q=is%3Apr+marwatk),
+[go-git](https://github.com/go-git/go-git/pull/311),
+[CAS](https://github.com/apereo/cas/pulls?q=is%3Apr+author%3Amarwatk),
+[zerolog](https://github.com/rs/zerolog/pull/321),
+and more in addition to many of 
+[my own projects](https://github.com/marwatk?tab=repositories&q=&type=public&language=&sort=stargazers).
+
 ## Idiomatic Languages and Technologies
 
 * **Go**
@@ -79,9 +89,7 @@ Developed automated call recorder to facilitate helpdesk quality assurance reduc
 
 ## Passable Languages and Technologies
 
-Python, C++, C#, Angular, Azure, GCE
-
-_I can write **Java** in almost anything_
+Python, C++, C#, Angular, Azure, GCE and I can write _Java_ in almost anything
 
 # Awards
 
