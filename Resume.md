@@ -22,7 +22,7 @@ My first significant software project was a Risk clone for the TI-85 graphing ca
 Led transition from manual bare metal builds and deployments to automated, declarative, repeatable containerized deployments for a variety of disparate internet-facing components using 100% infrastructure as code and a cloud-agnostic approach.
 Significantly reduced developer toil and operator error, ensuring higher uptime and fewer outages.
 
-**Stack**: Docker, Openshift, Kubernetes, Ansible, GitLab CI, Go, Java, Python, Bash, Argo, AWS
+_Stack_: Docker, Openshift, Kubernetes, Ansible, GitLab CI, Go, Java, Python, Bash, Argo, AWS
 
 ### Bal Swan G-Suite Migration (2016)
 Solely responsible for seamless transition from legacy mail and office systems to G-Suite for approximately 50 technologically challenged users.
@@ -31,29 +31,29 @@ Solely responsible for seamless transition from legacy mail and office systems t
 Led global team of developers and support personnel to design, implement and support IBM's strategic solution for outage management.
 System provided executives, customers and operations staff critical information needed to drive outages to resolution.
 
-**Stack**: Perl, DB2, AIX, HTML, Javascript, CSS
+_Stack_: Perl, DB2, AIX, HTML, Javascript, CSS
 
 ### ToppersWithGlitz.com (2005 to 2017) - Website and workflow management
 Designed and implemented complete eCommerce solution for small business including graphic design, secure order management, advertising and website analytics.
 
-**Stack**: Perl, HTML, Javascript, CSS, Linux, MySQL, Microsoft Access
+_Stack_: Perl, HTML, Javascript, CSS, Linux, MySQL, Microsoft Access
 
 ### IBM OneContact (2006 to 2012) - Support Notification Tool
 Led global team of developers to design and implement IBM's strategic notification system.
 This system was used to expand support globally reducing costs and outage times.
 
-**Stack**: Java, Perl, DB2, HTML, Javascript, CSS
+_Stack_: Java, Perl, DB2, HTML, Javascript, CSS
 
 ### PodTrapper (2008 to 2011) - Mobile Podcast App for Android and Blackberry
     
 Designed award winning podcast application for BlackBerry, then implemented a custom BlackBerry to Android API to allow a common code base for both platforms.
 
-**Stack**: Java, REST, HTTP, Android, BlackBerry
+_Stack_: Java, REST, HTTP, Android, BlackBerry
 
 ### IBM Call Recorder (2002 to 2004) - Helpdesk Quality Assurance Tool
 Developed automated call recorder to facilitate helpdesk quality assurance reducing hours spent waiting for agents to take calls.
 
-**Stack**: C++, MAPI, Windows, Avaya IP Telephony
+_Stack_: C++, MAPI, Windows, Avaya IP Telephony
 
 ## Education and Qualifications
 

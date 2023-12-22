@@ -17,8 +17,11 @@ cat <<EOF > Resume.html
       body {
         font-size: 12px;
       }
-      h1, h2, h3, h4, p {
+      h1, h2, h3, h4 {
         line-height: 1;
+      }
+      p {
+        line-height: 1.1;
       }
       table {
         margin-bottom: 0;
